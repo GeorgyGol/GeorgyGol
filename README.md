@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgyGol
 - 👀 I’m interested in python data analysis
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning flask
 - 💞️ I’m looking to collaborate on various python projects 
 - 📫 How to reach me g.golyshev@gmail.com
 
